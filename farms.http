@@ -1,0 +1,9 @@
+POST http://localhost:3000/farms
+Content-Type: application/json
+
+{
+    "name": "hello",
+    "area": "dd",
+    "areaUnit": "dd",
+    "irrigated": 1
+}
